@@ -1,0 +1,3 @@
+cerinta,date_intrare,date_iesire,restrictii
+"Se dă un șir de caractere. Să se determine câte vocale din șir sunt cuprinse între două consoane.", "Programul citește de la tastatură un sir de caractere.", "Programul va afișa pe ecran valoarea cerută.", "șirul va avea cel mult 255 caractere
+șirul nu va conține litere mari"

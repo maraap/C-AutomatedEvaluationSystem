@@ -1,0 +1,2 @@
+cerinta,date_intrare,date_iesire,restrictii
+"Să se scrie un program care citește numărul natural n și determină suma S=2+4+..+(2n).", "Programul citește de la tastatură numărul n.", "Programul afișează pe prima linie a ecranului mesajul Suma este S, unde S reprezintă suma calculată.", "0 < n ≤ 10000"

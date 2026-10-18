@@ -1,0 +1,3 @@
+cerinta, date_intrare, date_iesire, restrictii
+"Se dă o matrice cu n linii și m coloane și elemente numere naturale. Să se permute coloanele matricei circular spre stânga cu o poziție.", "Programul citește de la tastatură numerele n şi m, iar apoi n*m numere naturale, separate prin spații, reprezentând elementele matricei, linie cu linie.", "Programul afișează pe ecran elementele matricei transformate, câte un linie a matricei pe o linie a ecranului, elementele de pe o linie fiind separate prin câte un spațiu.", "1 ≤ m, n ≤ 100
+elementele matricei vor fi mai mici decât 1.000.000"

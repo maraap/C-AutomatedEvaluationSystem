@@ -1,0 +1,5 @@
+Expresie3, 1, Calculați valoarea sumei alternante S=1*2-2*3+3*4...±n*(n+1) pentru un număr n citit.
+Paritate1, 2, Determinați diferența în valoare absolută dintre numărul de valori pare și numărul de valori impare dintr-un șir dat.
+PermCol, 3, Realizați permutarea circulară a coloanelor unei matrice spre stânga cu o singură poziție.
+Pozitii, 4, Numărați câte vocale dintr-un șir de caractere se află strict între două consoane.
+SumaPare, 5, Calculați suma primelor n numere pare consecutive S=2+4+...+(2n).

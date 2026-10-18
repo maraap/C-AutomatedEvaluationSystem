@@ -1,0 +1,3 @@
+cerinta, date_intrare, date_iesire, restrictii
+"Se dă un șir cu n elemente, numere naturale. Determinați diferența în valoare absolută dintre numărul de valori pare din șir și numărul de valori impare din șir.", "Programul citește de la tastatură numărul n, iar apoi n numere naturale, reprezentând elementele șirului.", "Programul va afișa pe ecran numărul C, reprezentând valoarea cerută.","1 ≤ n ≤ 1000
+cele n numere citite vor fi mai mici decât 1.000.000.000"
